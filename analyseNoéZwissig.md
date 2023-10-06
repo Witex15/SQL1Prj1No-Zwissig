@@ -10,6 +10,9 @@
 ## V3
 <img src="./img/V3.jpg" alt="V3" style=" margin-left: 50px; height: 500px; transform: rotate(90deg);"/>
 
+# MCD V1
+<img src="./img/SQL1Prj1MCDNoéZwissig.jpg" alt="V1" style=" margin-left: 50px; height: 500px;"/>
+
 # Question
 Est-ce que tous les élève au sein d'un classe on FORCEMENT les même leçon ?
 : OUI
