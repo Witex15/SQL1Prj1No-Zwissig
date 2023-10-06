@@ -1,17 +1,18 @@
-#Noé Zwissig analyse
----
-#First mind idea on paper
-##V1
-<img src="/img/V1.jpg" alt="V1" style=" margin-left: 50px; height: 500px; transform: rotate(90deg);"/>
-##V2
-<img src="/img/V2.jpg" alt="V2" style=" margin-left: 50px; height: 500px; transform: rotate(90deg);"/>
-##V3
-<img src="/img/V3.jpg" alt="V3" style=" margin-left: 50px; height: 500px; transform: rotate(90deg);"/>
+# Noé Zwissig analyse
 
----
+# First mind idea on paper
+## V1
+<img src="./img/V1.jpg" alt="V1" style=" margin-left: 50px; height: 500px; transform: rotate(90deg);"/>
+
+## V2
+<img src="./img/V2.jpg" alt="V2" style=" margin-left: 50px; height: 500px; transform: rotate(90deg);"/>
+
+## V3
+<img src="./img/V3.jpg" alt="V3" style=" margin-left: 50px; height: 500px; transform: rotate(90deg);"/>
+
 # Question
 Est-ce que tous les élève au sein d'un classe on FORCEMENT les même leçon ?
-: OUi
+: OUI
 
 Quel info voulez-vous pour les élève ?
 : horaire par semestre
@@ -39,6 +40,11 @@ semestre ou il est donnée (évolutif)
 horaire
 note
 semestre 
+
+Quel info pour les notes ?
+: nom
+description
+Date de réalisation
 
 Avez-vous des cas spéciaux que vous voulez que nous tenions compte ? 
 : aucun 
