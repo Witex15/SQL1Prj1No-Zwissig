@@ -10,10 +10,22 @@
 ## V3
 <img src="./img/V3.jpg" alt="V3" style=" margin-left: 50px; height: 500px; transform: rotate(90deg);"/>
 
-# MCD V1
+# MCD V1.0
 <img src="./img/SQL1Prj1MCDNoéZwissig.jpg" alt="V1" style=" margin-left: 50px; height: 500px;"/>
 
+# MCD V2.0
+<img src="./img/SQL1Prj1MCDNoéZwissigV2.jpg" alt="V1" style=" margin-left: 50px; height: 500px;"/>
+
+## fix inside the v2:
+Update the person table to add the status enum inside.\
+Correct the "note" table as "grade" and the "note" as result.\
+add startTime in lesson
+
+# Decision and explanation
+
+
 # Question
+
 Est-ce que tous les élève au sein d'un classe on FORCEMENT les même leçon ?
 : OUI
 
