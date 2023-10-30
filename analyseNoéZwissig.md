@@ -258,9 +258,11 @@ We can use that table to research a lot of think. (Ex: find all the grades of a 
 ## addresses
 The addresses table is used to store the address of a person or a room.\
 
-# SQL script
-## Create the database
+# SQL script to create and insert data
 ```sql
+CREATE DATABASE IF NOT EXISTS sql1;
+USE sql1;
+    
 -- Create the "terms" table (No foreign keys)
 CREATE TABLE terms (
     id_terms INT PRIMARY KEY,
@@ -368,10 +370,7 @@ CREATE TABLE lessons (
     FOREIGN KEY (classes_id) REFERENCES classes (id_classes),
     FOREIGN KEY (branches_id) REFERENCES branches (id_branches)
 );
-```
 
-## Insert data
-```sql
 -- Insert data into the "terms" table
 INSERT INTO terms (id_terms, start_date, end_date)
 VALUES
