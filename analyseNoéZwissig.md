@@ -258,6 +258,12 @@ We can use that table to research a lot of think. (Ex: find all the grades of a 
 ## addresses
 The addresses table is used to store the address of a person or a room.\
 
+# How it works
+Each year the admin have to creat a new terms and assign the people to it.\
+He also need to update the person with the correct class.
+
+By using the database that way, you are able to have an history of who was in wich terms.
+
 # SQL script to create and insert data
 ```sql
 CREATE DATABASE IF NOT EXISTS sql1;
